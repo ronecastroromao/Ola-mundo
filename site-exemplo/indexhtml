@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu primeiro site em repositorio
+         <html></html>- Site Exemplo</title>
+</head>
+<body><h1><hr>Olá, Mundo!
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum molestias esse nesciunt incidunt corrupti voluptatibus minus optio, saepe culpa fugiat quam libero quos dolorem, magni eum iure vero maxime numquam.</p>
+</h1>
+    <h1>Olá, mundo!</h1>
+    <p>Bem-vindo ao seu site exemplo.</p>
+</body><hr>
+</html>
